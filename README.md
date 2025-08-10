@@ -1,19 +1,19 @@
 
-## 📌 Overview
+##  Overview
 This project compares multiple supervised learning algorithms on a classification dataset.  
 The goal is to evaluate trade-offs between **accuracy, precision, recall, and interpretability** to select the best-performing model.  
 The approach can be applied to **predicting education outcomes** or **health risks** in real-world programs.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - **Source:** [Insert dataset link if public]
 - **Size:** [Number of rows, columns]
 - **Target Variable:** [Target column name]
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Languages:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Models:** Naive Bayes, Decision Tree, Support Vector Machine (SVM), Deep Learning (Keras/TensorFlow)  
@@ -21,7 +21,7 @@ The approach can be applied to **predicting education outcomes** or **health ris
 
 ---
 
-## 🔍 Steps
+##  Steps
 1. Data cleaning & preprocessing  
 2. Train-test split (80% training, 20% testing)  
 3. Model training for all four algorithms  
@@ -30,7 +30,7 @@ The approach can be applied to **predicting education outcomes** or **health ris
 
 ---
 
-## 📊 Results
+##  Results
 | Model           | Accuracy | Precision | Recall | F1-score |
 |-----------------|----------|-----------|--------|----------|
 | Naive Bayes     | XX%      | XX%       | XX%    | XX%      |
@@ -43,7 +43,7 @@ The approach can be applied to **predicting education outcomes** or **health ris
 
 ---
 
-## 🌍 Applications
+## Applications
 - Predicting student performance for targeted interventions  
 - Forecasting public health outcomes  
 - Risk classification for humanitarian and development programs
